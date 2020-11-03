@@ -12,3 +12,5 @@ CONTRIBUTIONS: anything that is submitted for inclusion in
 	       the PROJECT at any time.
 GPG: GNU Privacy Guard is a software program that can create
      electronic signatures.
+SIGNER: a person who has made CONTRIBUTIONS and who signs this
+ 	AGREEMENT with GPG.
