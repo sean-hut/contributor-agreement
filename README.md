@@ -43,6 +43,14 @@ Here are some examples of issues with copyright.
 [magit]: <https://magit.vc/>
 [linux]: <https://www.kernel.org/>
 
+## Software Patents Motivating Examples
+
+The transcript of the presentation [Software patents — Obstacles to
+software development][patent-obstacles] gives examples of issues with
+software patents.
+
+[patent-obstacles]: <https://www.gnu.org/philosophy/software-patents.en.html>
+
 ## Contributor Agreement
 
 The contributor agreement template is the file: `contributor-agreement.txt`
