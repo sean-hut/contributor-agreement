@@ -34,3 +34,6 @@ SIGN OFF: GIT's commit functionality of --signoff and --gpg-sign.
    worldwide, non-exclusive, no-charge, royalty-free, irrevocable patent
    license for any patent claims that are infringed by the SIGNER's
    CONTRIBUTIONS alone or in combination with any other CONTRIBUTIONS.
+
+6. The SIGNER will use GIT's SIGN OFF functionality when submitting any
+   CONTRIBUTIONS to the PROJECT.
