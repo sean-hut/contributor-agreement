@@ -17,6 +17,18 @@ assignment.
 [assignment]: <https://www.gnu.org/licenses/why-assign.html>
 [assignment-fsf]: <https://www.fsf.org/bulletin/2014/spring/copyright-assignment-at-the-fsf>
 
+## Software Patents Background Information
+
+Here are some links that provide background information on software
+patents.
+
+- [Fighting Software Patents][fighting-patents]
+- [End Software Patents][end-software-patents]
+- [Software Patents and Literary Patents][literary-patents]
+
+[fighting-patents]: <https://www.gnu.org/philosophy/fighting-software-patents.html>
+[end-software-patents]: <http://endsoftpatents.org/>
+[literary-patents]: <https://www.gnu.org/philosophy/software-literary-patents.html>
 
 ## Copyright Assignment Motivating Examples
 
