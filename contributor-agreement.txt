@@ -10,3 +10,5 @@ PROJECT: the source code repository for
 DERIVATIONS: any derivations of the PROJECT.
 CONTRIBUTIONS: anything that is submitted for inclusion in
 	       the PROJECT at any time.
+GPG: GNU Privacy Guard is a software program that can create
+     electronic signatures.
