@@ -19,3 +19,4 @@ PROJECT OWNER: the PROJECT's owner is
 	       <EMAIL>
 USERS: all the people that use the PROJECT or DERIVATIONS.
 GIT: Git is version control software.
+SIGN OFF: GIT's commit functionality of --signoff and --gpg-sign.
