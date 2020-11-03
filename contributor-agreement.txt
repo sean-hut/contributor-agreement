@@ -22,3 +22,6 @@ GIT: Git is version control software.
 SIGN OFF: GIT's commit functionality of --signoff and --gpg-sign.
 
 2. The SIGNER has the right and power to enter into this AGREEMENT.
+
+3. The SIGNER is the only creator and copyright holder of the
+   CONTRIBUTIONS they submit to the PROJECT.
