@@ -5,3 +5,5 @@ Version 0.2.0
    in this document by using the defined terms in all capital letters.
 
 AGREEMENT: the agreement detailed in this document.
+PROJECT: the source code repository for
+	 <PROJECT>
