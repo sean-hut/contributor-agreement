@@ -32,3 +32,10 @@ agreement with copyright assignment.
 
 The contributor agreement template is the file: `contributor-agreement.txt`
 
+## Use
+
+The [Contributing Rules project][contributing-rules] provides an
+[example of how to use this contributing agreement][example-use].
+
+[contributing-rules]: <https://github.com/sean-hut/contributing-rules>
+[example-use]: <https://github.com/sean-hut/contributing-rules/blob/develop/rules/contributing-prerequisites/contributor-agreement.md>
