@@ -21,5 +21,9 @@ agreement with copyright assignment.
 
 - [Magit][magit]
     - <https://lists.gnu.org/archive/html/emacs-devel/2017-07/msg00127.html>
+- [Linux][linux]
+    - <https://www.itnews.com.au/news/linux-devs-threaten-to-pull-contributions-513008>
+    - <http://lkml.iu.edu/hypermail/linux/kernel/1809.2/06864.html>
 
 [magit]: <https://magit.vc/>
+[linux]: <https://www.kernel.org/>
