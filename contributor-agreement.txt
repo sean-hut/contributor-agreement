@@ -29,3 +29,8 @@ SIGN OFF: GIT's commit functionality of --signoff and --gpg-sign.
 4. The SIGNER assign and transfers copyright of all their
    CONTRIBUTIONS to the PROJECT without reservation or exclusion to
    the PROJECT OWNER.
+
+5. The SIGNER grants the PROJECT OWNER and USERS a perpetual,
+   worldwide, non-exclusive, no-charge, royalty-free, irrevocable patent
+   license for any patent claims that are infringed by the SIGNER's
+   CONTRIBUTIONS alone or in combination with any other CONTRIBUTIONS.
