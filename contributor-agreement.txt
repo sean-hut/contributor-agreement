@@ -37,3 +37,6 @@ SIGN OFF: GIT's commit functionality of --signoff and --gpg-sign.
 
 6. The SIGNER will use GIT's SIGN OFF functionality when submitting any
    CONTRIBUTIONS to the PROJECT.
+
+7. The SIGNER reaffirm this AGREEMENT with every submission of
+   CONTRIBUTIONS to the PROJECT that uses GIT's SIGN OFF functionality.
