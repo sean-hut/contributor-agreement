@@ -27,3 +27,8 @@ agreement with copyright assignment.
 
 [magit]: <https://magit.vc/>
 [linux]: <https://www.kernel.org/>
+
+## Contributor Agreement
+
+The contributor agreement template is the file: `contributor-agreement.txt`
+
