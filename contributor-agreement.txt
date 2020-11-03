@@ -44,3 +44,5 @@ SIGN OFF: GIT's commit functionality of --signoff and --gpg-sign.
 8. The SIGNER has retrieved good and valuable consideration.
 
 9. This AGREEMENT is binding upon the legal successors.
+
+10. This AGREEMENT is effective at the time of signing.
