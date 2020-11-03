@@ -42,3 +42,5 @@ SIGN OFF: GIT's commit functionality of --signoff and --gpg-sign.
    CONTRIBUTIONS to the PROJECT that uses GIT's SIGN OFF functionality.
 
 8. The SIGNER has retrieved good and valuable consideration.
+
+9. This AGREEMENT is binding upon the legal successors.
