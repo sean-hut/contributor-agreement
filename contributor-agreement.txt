@@ -18,3 +18,4 @@ PROJECT OWNER: the PROJECT's owner is
 	       <NAME>
 	       <EMAIL>
 USERS: all the people that use the PROJECT or DERIVATIONS.
+GIT: Git is version control software.
