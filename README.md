@@ -2,9 +2,9 @@
 
 ## Overview
 
-This contributor agreement template is a supplement for a projects
-license.  It covers copyright assignment and patent licensing of
-contributions made by contributors.
+This contributor agreement template is a compliment for a projects
+license to be signed by contributors.  It covers copyright assignment
+and patent licensing of contributions made by contributors.
 
 ## Copyright Assignment
 
