@@ -2,22 +2,37 @@
 
 ## Overview
 
-This contributor agreement template is a supplement for a projects
-license.  It covers copyright assignment and patent licensing of
-contributions made by contributors.
+This contributor agreement template is a compliment for a projects
+license to be signed by contributors.  It covers copyright assignment
+and patent licensing of contributions made by contributors.
 
-## Copyright Assignment
+## Copyright Assignment Background Information
 
 Here are some links that provide background information on copyright
 assignment.
 
-- https://www.gnu.org/licenses/why-assign.html
-- https://www.fsf.org/bulletin/2014/spring/copyright-assignment-at-the-fsf
+- [Why the FSF gets copyright assignments from contributors][assignment]
+- [Copyright assignment at the FSF][assignment-fsf]
 
-## Copyright Motivating Examples
+[assignment]: <https://www.gnu.org/licenses/why-assign.html>
+[assignment-fsf]: <https://www.fsf.org/bulletin/2014/spring/copyright-assignment-at-the-fsf>
 
-Here are some motivating examples for the use of a contributor
-agreement with copyright assignment.
+## Software Patents Background Information
+
+Here are some links that provide background information on software
+patents.
+
+- [Fighting Software Patents][fighting-patents]
+- [End Software Patents][end-software-patents]
+- [Software Patents and Literary Patents][literary-patents]
+
+[fighting-patents]: <https://www.gnu.org/philosophy/fighting-software-patents.html>
+[end-software-patents]: <http://endsoftpatents.org/>
+[literary-patents]: <https://www.gnu.org/philosophy/software-literary-patents.html>
+
+## Copyright Assignment Motivating Examples
+
+Here are some examples of issues with copyright.
 
 - [Magit][magit]
     - <https://lists.gnu.org/archive/html/emacs-devel/2017-07/msg00127.html>
@@ -27,6 +42,14 @@ agreement with copyright assignment.
 
 [magit]: <https://magit.vc/>
 [linux]: <https://www.kernel.org/>
+
+## Software Patents Motivating Examples
+
+The transcript of the presentation [Software patents — Obstacles to
+software development][patent-obstacles] gives examples of issues with
+software patents.
+
+[patent-obstacles]: <https://www.gnu.org/philosophy/software-patents.en.html>
 
 ## Contributor Agreement
 
