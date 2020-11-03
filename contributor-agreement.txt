@@ -8,3 +8,5 @@ AGREEMENT: the agreement detailed in this document.
 PROJECT: the source code repository for
 	 <PROJECT>
 DERIVATIONS: any derivations of the PROJECT.
+CONTRIBUTIONS: anything that is submitted for inclusion in
+	       the PROJECT at any time.
