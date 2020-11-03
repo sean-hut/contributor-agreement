@@ -1,2 +1,5 @@
 Contributor Agreement
 Version 0.2.0
+
+1. The definitions in this section are referred to by other sections
+   in this document by using the defined terms in all capital letters.
