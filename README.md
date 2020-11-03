@@ -6,15 +6,17 @@ This contributor agreement template is a compliment for a projects
 license to be signed by contributors.  It covers copyright assignment
 and patent licensing of contributions made by contributors.
 
-## Copyright Assignment
+## Copyright Assignment Background Information
 
 Here are some links that provide background information on copyright
 assignment.
 
-- https://www.gnu.org/licenses/why-assign.html
-- https://www.fsf.org/bulletin/2014/spring/copyright-assignment-at-the-fsf
+- [Why the FSF gets copyright assignments from contributors][assignment]
+- [Copyright assignment at the FSF][assignment-fsf]
 
 ## Copyright Motivating Examples
+[assignment]: <https://www.gnu.org/licenses/why-assign.html>
+[assignment-fsf]: <https://www.fsf.org/bulletin/2014/spring/copyright-assignment-at-the-fsf>
 
 Here are some motivating examples for the use of a contributor
 agreement with copyright assignment.
