@@ -20,3 +20,5 @@ PROJECT OWNER: the PROJECT's owner is
 USERS: all the people that use the PROJECT or DERIVATIONS.
 GIT: Git is version control software.
 SIGN OFF: GIT's commit functionality of --signoff and --gpg-sign.
+
+2. The SIGNER has the right and power to enter into this AGREEMENT.
