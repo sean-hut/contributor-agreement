@@ -48,3 +48,7 @@ SIGN OFF: GIT's commit functionality of --signoff and --gpg-sign.
 10. This AGREEMENT is effective at the time of signing.
 
 11. This AGREEMENT is the entire agreement.
+
+12. If any part of this AGREEMENT is found to be invalid or
+    unenforceable, that particular part, and not the entire AGREEMENT,
+    will be inoperative.
