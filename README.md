@@ -18,3 +18,8 @@ assignment.
 
 Here are some motivating examples for the use of a contributor
 agreement with copyright assignment.
+
+- [Magit][magit]
+    - <https://lists.gnu.org/archive/html/emacs-devel/2017-07/msg00127.html>
+
+[magit]: <https://magit.vc/>
