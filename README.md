@@ -14,12 +14,13 @@ assignment.
 - [Why the FSF gets copyright assignments from contributors][assignment]
 - [Copyright assignment at the FSF][assignment-fsf]
 
-## Copyright Motivating Examples
 [assignment]: <https://www.gnu.org/licenses/why-assign.html>
 [assignment-fsf]: <https://www.fsf.org/bulletin/2014/spring/copyright-assignment-at-the-fsf>
 
-Here are some motivating examples for the use of a contributor
-agreement with copyright assignment.
+
+## Copyright Assignment Motivating Examples
+
+Here are some examples of issues with copyright.
 
 - [Magit][magit]
     - <https://lists.gnu.org/archive/html/emacs-devel/2017-07/msg00127.html>
