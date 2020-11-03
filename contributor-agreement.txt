@@ -25,3 +25,7 @@ SIGN OFF: GIT's commit functionality of --signoff and --gpg-sign.
 
 3. The SIGNER is the only creator and copyright holder of the
    CONTRIBUTIONS they submit to the PROJECT.
+
+4. The SIGNER assign and transfers copyright of all their
+   CONTRIBUTIONS to the PROJECT without reservation or exclusion to
+   the PROJECT OWNER.
