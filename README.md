@@ -13,3 +13,8 @@ assignment.
 
 - https://www.gnu.org/licenses/why-assign.html
 - https://www.fsf.org/bulletin/2014/spring/copyright-assignment-at-the-fsf
+
+## Copyright Motivating Examples
+
+Here are some motivating examples for the use of a contributor
+agreement with copyright assignment.
