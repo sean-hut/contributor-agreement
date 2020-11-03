@@ -17,3 +17,4 @@ SIGNER: a person who has made CONTRIBUTIONS and who signs this
 PROJECT OWNER: the PROJECT's owner is
 	       <NAME>
 	       <EMAIL>
+USERS: all the people that use the PROJECT or DERIVATIONS.
