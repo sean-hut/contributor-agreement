@@ -4,7 +4,7 @@ This contributor agreement template is a compliment for a projects
 license to be signed by contributors.  It covers copyright assignment
 and patent licensing of contributions made by contributors.
 
-## Contributor Agreement
+## Contributor Agreement Template File
 
 The contributor agreement template is the file: `contributor-agreement.txt`
 
