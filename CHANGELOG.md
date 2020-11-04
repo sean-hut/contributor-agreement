@@ -28,4 +28,5 @@ This project uses the [ISO 8601 date format][iso] of (YYYY-MM-DD).
 - BSD Zero Clause license (SPDX: 0BSD)
 - Readme
 - Changelog
+- Makefile
 - Contributor Agreement

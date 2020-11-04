@@ -1,10 +1,64 @@
 # Contributor Agreement
 
-## Overview
-
 This contributor agreement template is a compliment for a projects
 license to be signed by contributors.  It covers copyright assignment
 and patent licensing of contributions made by contributors.
+
+## Contributor Agreement Template File
+
+The contributor agreement template is the file: `contributor-agreement.txt`
+
+## Use
+
+### Customization
+
+As `contributor-agreement.txt` is a template any project wanting to use it needs to customize it first.
+
+The parts that need to be customized inclue:
+
+- `<PROJECT>`
+- `<NAME>`
+- `<EMAIL>`
+
+`<PROJECT>` should be the project's repository.
+`<NAME>` should be the name of the project owner or maintainer.
+`<EMAIL>` should be the email of the project owner or maintainer.
+
+### Contributing Rules
+
+The [Contributing Rules project][contributing-rules] provides
+contributing rule modules that compliment this contributing agreement.
+If you are considering using this contributing agreement template you
+may want to also consider using these relevant modules:
+
+- [GPG2 Elliptic-Curve Signing Key][signing-key]
+- [Provide GPG2 Public Key][public-key]
+- [Contributor Agreement][agreement]
+- [Sign Your Commits][sign-commits]
+
+[contributing-rules]: <https://github.com/sean-hut/contributing-rules>
+
+[signing-key]: <https://github.com/sean-hut/contributing-rules/blob/develop/rules/contributing-prerequisites/gpg2-eliptic-curve-signing-key.md>
+[public-key]: <https://github.com/sean-hut/contributing-rules/blob/develop/rules/contributing-prerequisites/gpg2-public-key.md>
+[agreement]: <https://github.com/sean-hut/contributing-rules/blob/develop/rules/contributing-prerequisites/contributor-agreement.md>
+[sign-commits]: <https://github.com/sean-hut/contributing-rules/blob/develop/rules/committing/sign-and-signoff-commits.md>
+
+## Inspiration
+
+Inspiration for this contributor agreement comes form:
+
+- [Git][git]
+- [GNU Privacy Guard][gpg]
+- [Apache Version 2 license][apache]
+- [BSD-2-Clause Plus Patent License][bsd-patent-license]
+- [Copyright assignment at the FSF][assignment-fsf]
+- [Developer Certificate of Origin][developer-certificate]
+
+[git]: <https://git-scm.com/>
+[gpg]: <https://gnupg.org/>
+[apache]: <https://www.apache.org/licenses/LICENSE-2.0.html>
+[bsd-patent-license]: <https://spdx.org/licenses/BSD-2-Clause-Patent.html>
+[developer-certificate]: <http://developercertificate.org>
 
 ## Copyright Assignment Background Information
 
@@ -51,14 +105,36 @@ software patents.
 
 [patent-obstacles]: <https://www.gnu.org/philosophy/software-patents.en.html>
 
-## Contributor Agreement
+## License
 
-The contributor agreement template is the file: `contributor-agreement.txt`
+The license file is: `LICENSE`
 
-## Use
+This project is licensed under the BSD Zero Clause License (SPDX: 0BSD).
 
-The [Contributing Rules project][contributing-rules] provides an
-[example of how to use this contributing agreement][example-use].
+Links for more information on the license:
 
-[contributing-rules]: <https://github.com/sean-hut/contributing-rules>
-[example-use]: <https://github.com/sean-hut/contributing-rules/blob/develop/rules/contributing-prerequisites/contributor-agreement.md>
+- [License Commentary][landley]
+- [Open Source Initiative][osi]
+
+[landley]: <https://web.archive.org/web/20200909121328/https://landley.net/toybox/license.html>
+[osi]: <https://web.archive.org/web/20200923194052/https://opensource.org/licenses/0BSD>
+
+## Changelog
+
+The changelog file is: CHANGELOG.md
+
+All notable changes to this project are documented in the changelog file.
+
+## Versions
+
+### Development Version
+
+The development version is at the head of the `develop` branch.
+
+### Stable Versions
+
+Stable releases are tagged on the `releases` branch.
+
+The [SemVar][semvar] version of semantic versioning is used.
+
+[semvar]: <https://web.archive.org/web/20201009135328/https://semver.org/>
