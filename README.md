@@ -6,6 +6,10 @@ This contributor agreement template is a compliment for a projects
 license to be signed by contributors.  It covers copyright assignment
 and patent licensing of contributions made by contributors.
 
+## Contributor Agreement
+
+The contributor agreement template is the file: `contributor-agreement.txt`
+
 ## Inspiration
 
 Inspiration for this contributor agreement comes form:
@@ -67,10 +71,6 @@ software development][patent-obstacles] gives examples of issues with
 software patents.
 
 [patent-obstacles]: <https://www.gnu.org/philosophy/software-patents.en.html>
-
-## Contributor Agreement
-
-The contributor agreement template is the file: `contributor-agreement.txt`
 
 ## Use
 
