@@ -118,3 +118,9 @@ Links for more information on the license:
 
 [landley]: <https://web.archive.org/web/20200909121328/https://landley.net/toybox/license.html>
 [osi]: <https://web.archive.org/web/20200923194052/https://opensource.org/licenses/0BSD>
+
+## Changelog
+
+The changelog file is: CHANGELOG.md
+
+All notable changes to this project are documented in the changelog file.
