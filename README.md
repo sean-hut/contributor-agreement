@@ -22,9 +22,9 @@ The parts that need to be customized inclue:
 - `<NAME>`
 - `<EMAIL>`
 
-Where `<PROJECT>` should be the project's repository, `<NAME>` should
-be the name of the project owner or maintainer and `<EMAIL>` should be
-the email of the project owner or maintainer.
+`<PROJECT>` should be the project's repository.
+`<NAME>` should be the name of the project owner or maintainer.
+`<EMAIL>` should be the email of the project owner or maintainer.
 
 ### Contributing Rules
 
