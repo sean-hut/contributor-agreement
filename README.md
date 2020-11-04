@@ -76,6 +76,20 @@ The contributor agreement template is the file: `contributor-agreement.txt`
 
 The [Contributing Rules project][contributing-rules] provides an
 [example of how to use this contributing agreement][example-use].
+### Customization
+
+As `contributor-agreement.txt` is a template any project wanting to use it needs to customize it first.
+
+The parts that need to be customized inclue:
+
+- `<PROJECT>`
+- `<NAME>`
+- `<EMAIL>`
+
+Where `<PROJECT>` should be the project's repository, `<NAME>` should
+be the name of the project owner or maintainer and `<EMAIL>` should be
+the email of the project owner or maintainer.
+
 
 [contributing-rules]: <https://github.com/sean-hut/contributing-rules>
 [example-use]: <https://github.com/sean-hut/contributing-rules/blob/develop/rules/contributing-prerequisites/contributor-agreement.md>
