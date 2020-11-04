@@ -6,6 +6,23 @@ This contributor agreement template is a compliment for a projects
 license to be signed by contributors.  It covers copyright assignment
 and patent licensing of contributions made by contributors.
 
+## Inspiration
+
+Inspiration for this contributor agreement comes form:
+
+- [Git][git]
+- [GNU Privacy Guard][gpg]
+- [Apache Version 2 license][apache]
+- [BSD-2-Clause Plus Patent License][bsd-patent-license]
+- [Copyright assignment at the FSF][assignment-fsf]
+- [Developer Certificate of Origin][developer-certificate]
+
+[git]: <https://git-scm.com/>
+[gpg]: <https://gnupg.org/>
+[apache]: <https://www.apache.org/licenses/LICENSE-2.0.html>
+[bsd-patent-license]: <https://spdx.org/licenses/BSD-2-Clause-Patent.html>
+[developer-certificate]: <http://developercertificate.org>
+
 ## Copyright Assignment Background Information
 
 Here are some links that provide background information on copyright
