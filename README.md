@@ -74,8 +74,6 @@ The contributor agreement template is the file: `contributor-agreement.txt`
 
 ## Use
 
-The [Contributing Rules project][contributing-rules] provides an
-[example of how to use this contributing agreement][example-use].
 ### Customization
 
 As `contributor-agreement.txt` is a template any project wanting to use it needs to customize it first.
@@ -90,6 +88,21 @@ Where `<PROJECT>` should be the project's repository, `<NAME>` should
 be the name of the project owner or maintainer and `<EMAIL>` should be
 the email of the project owner or maintainer.
 
+### Contributing Rules
+
+The [Contributing Rules project][contributing-rules] provides
+contributing rule modules that compliment this contributing agreement.
+If you are considering using this contributing agreement template you
+may want to also consider using these relevant modules:
+
+- [GPG2 Elliptic-Curve Signing Key][signing-key]
+- [Provide GPG2 Public Key][public-key]
+- [Contributor Agreement][agreement]
+- [Sign Your Commits][sign-commits]
 
 [contributing-rules]: <https://github.com/sean-hut/contributing-rules>
-[example-use]: <https://github.com/sean-hut/contributing-rules/blob/develop/rules/contributing-prerequisites/contributor-agreement.md>
+
+[signing-key]: <https://github.com/sean-hut/contributing-rules/blob/develop/rules/contributing-prerequisites/gpg2-eliptic-curve-signing-key.md>
+[public-key]: <https://github.com/sean-hut/contributing-rules/blob/develop/rules/contributing-prerequisites/gpg2-public-key.md>
+[agreement]: <https://github.com/sean-hut/contributing-rules/blob/develop/rules/contributing-prerequisites/contributor-agreement.md>
+[sign-commits]: <https://github.com/sean-hut/contributing-rules/blob/develop/rules/committing/sign-and-signoff-commits.md>
